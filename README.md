@@ -9,4 +9,3 @@ This repository contains SQL scripts for creating and managing a relational data
 
 Here is the script
 --------
-
